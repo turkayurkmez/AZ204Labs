@@ -1,0 +1,11 @@
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Api.exe
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\appsettings.json
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Api.dll
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Api.deps.json
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Api.runtimeconfig.json
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Api.pdb
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Azure.Core.dll
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Azure.Storage.Blobs.dll
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Azure.Storage.Common.dll
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Flurl.dll
+C:\Users\turka\source\repos\Kurumsal\BilgeAdam\AZ204\allfiles-20211015\Labs\01\Starter\API\bin\Debug\netcoreapp3.0\publish\Microsoft.Bcl.AsyncInterfaces.dll

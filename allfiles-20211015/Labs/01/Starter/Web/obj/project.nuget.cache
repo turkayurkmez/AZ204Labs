@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "j5IRO4YlMzYqLmGsIyY9fPQeKHztSFnDJ+zDfoFV8xnKp9Ej1g6CTfeQKbj92jvawlZh7n+GbThfkvEI3KBnXA==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\turka\\source\\repos\\Kurumsal\\BilgeAdam\\AZ204\\allfiles-20211015\\Labs\\01\\Starter\\Web\\Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\turka\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\turka\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
